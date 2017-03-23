@@ -11,7 +11,7 @@ email: danielthatcher@gmail.com
 description: Test
 
 baseurl: "/" #e.g. /safarnama, /blog. Dont forget the '/'.
-url: "http://wordpest.github.io" # the base hostname & protocol for your site
+url: "https://tdthatcher.github.io/wordpest/" # the base hostname & protocol for your site
 twitter_username: radiostalk
 github_username:  tdthatcher
 
