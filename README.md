@@ -1,6 +1,8 @@
 ![alt-tag](https://c2.staticflickr.com/8/7167/26672340054_eaae3d4e7f_o.png)
 ![alt-tag](https://c2.staticflickr.com/8/7013/26671807574_4487215cda_o.png)
 
+argh
+
 #### To create a new post :sunglasses:
 
 - Create a .markdown file inside _posts folder.
@@ -71,3 +73,4 @@
 If there's any issue you are facing in setting up Safarnama, I'm there for you. Just create an issue in this repository (http://github.com/hemangsk/safarnama), (https://help.github.com/articles/creating-an-issue/) and I'll get back to you asap. :smile: :+1:<br>
 
 Have a great day!  :smile: :smile: :smiley:
+
