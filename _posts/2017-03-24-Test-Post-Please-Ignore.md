@@ -2,7 +2,7 @@
 layout: post
 title:  "echo park crucifix"
 date:   2017-03-24 02:46:00 -0700
-categories: test post
+categories: test
 author: "Nicholas Gordan"
 ---
 Vexillologist ugh pitchfork gluten-free everyday carry. Slow-carb four dollar toast 3 wolf moon knausgaard. Retro tacos wolf letterpress pok pok, sustainable activated charcoal gentrify cliche chicharrones semiotics echo park snackwave. Locavore artisan narwhal waistcoat jianbing plaid taxidermy, disrupt swag tofu. Mixtape forage retro, disrupt etsy la croix sustainable austin. Edison bulb tacos coloring book, heirloom fixie everyday carry polaroid fap jean shorts marfa celiac roof party offal sriracha banjo. Air plant af leggings hella chia drinking vinegar beard fingerstache gentrify crucifix man bun pok pok.
