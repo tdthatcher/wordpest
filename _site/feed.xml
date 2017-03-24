@@ -3,10 +3,10 @@
   <channel>
     <title>TDThatcher</title>
     <description>Living Text</description>
-    <link>https://tdthatcher.github.io/</link>
-    <atom:link href="https://tdthatcher.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 23 Mar 2017 17:11:10 -0700</pubDate>
-    <lastBuildDate>Thu, 23 Mar 2017 17:11:10 -0700</lastBuildDate>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 23 Mar 2017 17:15:16 -0700</pubDate>
+    <lastBuildDate>Thu, 23 Mar 2017 17:15:16 -0700</lastBuildDate>
     <generator>Jekyll v3.4.2</generator>
     
       <item>
@@ -22,8 +22,8 @@
 &lt;p&gt;The sky is the limit only for those who aren’t afraid to fly!&lt;/p&gt;
 </description>
         <pubDate>Thu, 12 May 2016 09:31:43 -0700</pubDate>
-        <link>https://tdthatcher.github.io/stories/2016/05/12/welcome-to-jekyll-copy-200.html</link>
-        <guid isPermaLink="true">https://tdthatcher.github.io/stories/2016/05/12/welcome-to-jekyll-copy-200.html</guid>
+        <link>http://localhost:4000/stories/2016/05/12/welcome-to-jekyll-copy-200.html</link>
+        <guid isPermaLink="true">http://localhost:4000/stories/2016/05/12/welcome-to-jekyll-copy-200.html</guid>
         
         
         <category>Stories</category>
@@ -43,8 +43,8 @@
 &lt;p&gt;Here men from the planet Earth first set foot upon the Moon. July 1969 AD. We came in peace for all mankind.&lt;/p&gt;
 </description>
         <pubDate>Thu, 12 May 2016 09:31:43 -0700</pubDate>
-        <link>https://tdthatcher.github.io/general/2016/05/12/welcome-to-jekyll-copy-20.html</link>
-        <guid isPermaLink="true">https://tdthatcher.github.io/general/2016/05/12/welcome-to-jekyll-copy-20.html</guid>
+        <link>http://localhost:4000/general/2016/05/12/welcome-to-jekyll-copy-20.html</link>
+        <guid isPermaLink="true">http://localhost:4000/general/2016/05/12/welcome-to-jekyll-copy-20.html</guid>
         
         
         <category>General</category>
@@ -74,8 +74,8 @@ Grateful for the clarity
 That lit the day ahead.&lt;/p&gt;
 </description>
         <pubDate>Thu, 12 May 2016 09:31:43 -0700</pubDate>
-        <link>https://tdthatcher.github.io/poems/2016/05/12/welcome-to-jekyll-copy-2.html</link>
-        <guid isPermaLink="true">https://tdthatcher.github.io/poems/2016/05/12/welcome-to-jekyll-copy-2.html</guid>
+        <link>http://localhost:4000/poems/2016/05/12/welcome-to-jekyll-copy-2.html</link>
+        <guid isPermaLink="true">http://localhost:4000/poems/2016/05/12/welcome-to-jekyll-copy-2.html</guid>
         
         
         <category>poems</category>
