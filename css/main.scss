@@ -4,8 +4,8 @@
 @charset "utf-8";
 
 body{
-#  background-color: #92063a !important;
-  background-color: #02063a !important;
+#  background-color: #02063a !important;
+  background-color: #A93226 !important;
   color: white !important;
 }
 .post-content-main{
@@ -28,12 +28,14 @@ html, body {
 
 }
 #footer{
-  background-color: #02062a;
+#  background-color: #02062a;
+  background-color: #A93224;
 
 }
 .cont{
   min-height: 800px !important;
-background-color: #02062a;
+#background-color: #02062a;
+background-color: #A93224;
 }
 
 .social{
@@ -109,7 +111,8 @@ padding: 1em;
 }
 
 .post-title{
-  color: lightcyan;
+#  color: lightcyan;
+  color: #EAECEE;
   font-size: 30px;
   padding-bottom: 0.2em;
 
@@ -123,7 +126,8 @@ a:hover{
   border-bottom: 1px lightblue dotted;
 }
 .date-post{
-  color: skyblue;
+#  color: skyblue;
+   color: #D5D8DC;
 font-size: 14px !important;
 text-transform: uppercase;
 }
@@ -142,12 +146,13 @@ text-transform: uppercase;
 }
 
 .categories-on{
-  color: lightseagreen !important;
+#  color: lightseagreen !important;
+  color: #F2F4F4 !important;
 font-size: 14px !important;
 text-transform: uppercase !important;
 }
 
-.postExt{    color: lightcyan;
+.postExt{    color: #F2F4F4;
     font-size: 16px;
     font-weight: 300;
 }
@@ -161,12 +166,13 @@ letter-spacing: 4px;
 font-size: 25px;
 padding-top: 0.5em;
 float: left;
-color: skyblue;
+#color: skyblue;
+color: #E5E8E8;
 }
 .the-day{
   font-family: "Raleway";
 font-size: 25px;
-color: skyblue;
+color: #E5E8E8;
 padding-bottom: 0px;
 float:right;
 }
@@ -188,7 +194,7 @@ text-transform: uppercase;
 padding: 1em;
 font-weight: 600;
 font-size: 14px;
-color: powderblue;
+color: #E5E8E8;
 }
 .navigation{
   text-align: center;
