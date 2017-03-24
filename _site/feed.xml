@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>SAFARNAMA</title>
-    <description>STORIES ON THE MOVE</description>
-    <link>http://yourdomain.com/</link>
-    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 27 May 2016 11:31:48 +0530</pubDate>
-    <lastBuildDate>Fri, 27 May 2016 11:31:48 +0530</lastBuildDate>
-    <generator>Jekyll v3.1.2</generator>
+    <title>TDThatcher</title>
+    <description>Living Text</description>
+    <link>https://tdthatcher.github.io/</link>
+    <atom:link href="https://tdthatcher.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 23 Mar 2017 17:11:10 -0700</pubDate>
+    <lastBuildDate>Thu, 23 Mar 2017 17:11:10 -0700</lastBuildDate>
+    <generator>Jekyll v3.4.2</generator>
     
       <item>
         <title>Tales of China</title>
@@ -21,9 +21,9 @@
 
 &lt;p&gt;The sky is the limit only for those who aren’t afraid to fly!&lt;/p&gt;
 </description>
-        <pubDate>Thu, 12 May 2016 22:01:43 +0530</pubDate>
-        <link>http://yourdomain.com/stories/2016/05/12/welcome-to-jekyll-copy-200.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/stories/2016/05/12/welcome-to-jekyll-copy-200.html</guid>
+        <pubDate>Thu, 12 May 2016 09:31:43 -0700</pubDate>
+        <link>https://tdthatcher.github.io/stories/2016/05/12/welcome-to-jekyll-copy-200.html</link>
+        <guid isPermaLink="true">https://tdthatcher.github.io/stories/2016/05/12/welcome-to-jekyll-copy-200.html</guid>
         
         
         <category>Stories</category>
@@ -42,9 +42,9 @@
 
 &lt;p&gt;Here men from the planet Earth first set foot upon the Moon. July 1969 AD. We came in peace for all mankind.&lt;/p&gt;
 </description>
-        <pubDate>Thu, 12 May 2016 22:01:43 +0530</pubDate>
-        <link>http://yourdomain.com/general/2016/05/12/welcome-to-jekyll-copy-20.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/general/2016/05/12/welcome-to-jekyll-copy-20.html</guid>
+        <pubDate>Thu, 12 May 2016 09:31:43 -0700</pubDate>
+        <link>https://tdthatcher.github.io/general/2016/05/12/welcome-to-jekyll-copy-20.html</link>
+        <guid isPermaLink="true">https://tdthatcher.github.io/general/2016/05/12/welcome-to-jekyll-copy-20.html</guid>
         
         
         <category>General</category>
@@ -73,9 +73,9 @@ Rolled off the rumpled bed,
 Grateful for the clarity
 That lit the day ahead.&lt;/p&gt;
 </description>
-        <pubDate>Thu, 12 May 2016 22:01:43 +0530</pubDate>
-        <link>http://yourdomain.com/poems/2016/05/12/welcome-to-jekyll-copy-2.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/poems/2016/05/12/welcome-to-jekyll-copy-2.html</guid>
+        <pubDate>Thu, 12 May 2016 09:31:43 -0700</pubDate>
+        <link>https://tdthatcher.github.io/poems/2016/05/12/welcome-to-jekyll-copy-2.html</link>
+        <guid isPermaLink="true">https://tdthatcher.github.io/poems/2016/05/12/welcome-to-jekyll-copy-2.html</guid>
         
         
         <category>poems</category>
