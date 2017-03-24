@@ -8,7 +8,7 @@
 # Site settings
 title: TDThatcher
 email: danielthatcher@gmail.com
-description: Test
+description: Living Text
 
 baseurl: "" #e.g. /safarnama, /blog. Dont forget the '/'.
 url: "https://tdthatcher.github.io" # the base hostname & protocol for your site
