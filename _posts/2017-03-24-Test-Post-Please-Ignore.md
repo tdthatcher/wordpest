@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "I thought I must be dreaming."
-date:   201-03-24 02:46:00 -0700
+title:  "echo park crucifix"
+date:   2017-03-24 02:46:00 -0700
 categories: test post
 author: "Nicholas Gordan"
 ---
