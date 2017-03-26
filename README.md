@@ -1,4 +1,4 @@
-Welcome to the github repo for WORDPEST.
+Welcome to the github repo for [WORDPEST[(http://tdthatcher.github.io/wordpest/).
 
 Still a work in progress!
 
