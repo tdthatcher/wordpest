@@ -11,7 +11,6 @@ permalink: /about/
 
 <div class="writer writer-title">
 <h3>Content Writer</h3>
-</div>
 <p>As a content writer, my goal is to provide interesting, informative content that's designed to
 catch eyes and draw readers to a website or print publication. Much of what I do is ghostwriting, and
 I enjoy my work!</p>
