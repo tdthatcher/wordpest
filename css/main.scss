@@ -133,10 +133,11 @@ padding: 1em;
 }
 a{
   color:inherit !important;
+  text-decoration: underline;
 }
 a:hover{
   color: inherit;
-  text-decoration: underline !important;
+  text-decoration: none !important;
   border-bottom: 1px lightblue dotted;
 }
 .date-post{
