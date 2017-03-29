@@ -29,7 +29,7 @@ I enjoy my work!</p>
 <h3>Technologist</h3>
 </div>
 <div class="techno-content">
-<p>I'm a knowledgable computer user and experienced Linux system administrator. I build web servers for fun, sometimes, and have been known to self-host
+<p>I'm a knowledgable computer user and experienced Linux system administrator. I build web servers for fun, and have been known to self-host
 material using a Linux (<a href="https://www.debian.org/">Debian</a>, usually), Apache, MySQL, and PHP (LAMP) stack, either on my own hardware or on a virtual host. 
 I occasionally program using <a href="http://www.python.org">Python</a>, and enjoy using single-board computers such as the 
 <a href="https://www.raspberrypi.org/">Raspberry Pi</a> and the <a href="https://getchip.com/">CHIP</a>. 
@@ -48,7 +48,7 @@ something more my own using HTML, CSS, and the Liquid template language.</p>
 <p>I hold a Bachelor of Science in Neurobiology, Physiology, and Behavior with a minor in Insect Biology from 
 The University of California at Davis (2014), during which time I assisted in a project studying the 
 <a href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0154504">Quantitative Analysis of Reflected Light from Zebra Coats</a>.
-I performed data analysis for this project using <a href="https://www.mathworks.com/products/matlab.html">Matlab</a>. 
+I performed data analysis for this project using <a href="https://www.mathworks.com/products/matlab.html">Matlab</a>.
 </p>
 </div>
 

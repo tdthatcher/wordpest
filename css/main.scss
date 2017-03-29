@@ -9,15 +9,9 @@ body{
   color: white !important;
 }
 
-a:link, a:visited {
-color: black;
-}
-
-a:hover, a:active {
+a {
 text-decoration: underline;
-color: black
 }
-
 
 .post-content-main{
   padding-left: 1em;

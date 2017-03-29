@@ -3,12 +3,8 @@ body {
   background-color: #A93226 !important;
   color: white !important; }
 
-a:link, a:visited {
-  color: black; }
-
-a:hover, a:active {
-  text-decoration: underline;
-  color: black; }
+a {
+  text-decoration: underline; }
 
 .post-content-main {
   padding-left: 1em;
