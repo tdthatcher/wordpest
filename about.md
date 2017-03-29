@@ -9,14 +9,16 @@ permalink: /about/
 <p>Wordpest is a demonstration site that I've put together to showcase a few of my skills.</p>
 
 <div class="writer writer-title">
-Content Writer
+<h3>Content Writer</h3>
 </div>
 <p>As a content writer, my goal is to provide interesting and informative content that's designed to
 catch eyes and draw readers to a website or print publication. My topical areas of interest include law,
-medicine, science, technology, and technological culture.</p>
+medicine, science, technology, and technological culture.
+</p>
+<br>
 
 <div class="science science-title">
-Scientist
+<h3>Scientist</h3>
 </div>
 <p>I hold a Bachelor of Science in Neurobiology, Physiology, and Behavior with a minor in Insect Biology from 
 The University of California at Davis (2014), during which time I assisted in a project studying the 
@@ -25,7 +27,7 @@ I performed data analysis for this project using <a href="https://www.mathworks.
 </p>
 
 <div class="techno techno-title">
-Technologist
+<h3>Technologist</h3>
 </div>
 <p>I'm also a knowledgable computer user and experienced Linux system administrator. I build web servers for fun, sometimes, and have been known to self-host
 material using a Linux (<a href="https://www.debian.org/">Debian"</a>, usually), Apache, MySQL, and PHP (LAMP) stack, either on my own hardware or on a virtual host. 
