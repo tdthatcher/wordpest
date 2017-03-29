@@ -10,10 +10,11 @@ body{
 }
 
 a:link, a:visited {
-color: yellow;
+color: black;
 }
-a:hover {
+a:hover, a:active {
 text-decoration: underline;
+color: black
 }
 
 
