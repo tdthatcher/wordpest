@@ -5,88 +5,40 @@ permalink: /about/
 ---
 
 <div class="post-content">
-    <h2 class="sname-main">SAFARNAMA</h2>
-<p>Minimal, Free spirited, Uncluttered Jekyll theme<br />for sharing your awesome stories.</p>
-<p><br /></p>
-<center><div class="man-title">
-  UP AND RUNNING WITH <span class="sname">SAFARNAMA</span>
+    <h2 class="sname-main">WORDPEST.COM</h2>
+<p>Wordpest is a demonstration site that I've put together to showcase a few of my skills.</p>
+
+<div class="writer writer-title">
+Content Writer
 </div>
-</center>
-<div class="manual manual-title">
-  Posting
-  </div>
-<p>  <div class="manual-content">
+<p>As a content writer, my goal is to provide interesting and informative content that's designed to
+catch eyes and draw readers to a website or print publication. My topical areas of interest include law,
+medicine, science, technology, and technological culture.</p>
 
-      - Create a .markdown file inside <code class="highlighter-rouge">_posts</code> folder.<br />
-      - Name the file according to the format YY-MM-DD-[short name for your post].<br />
-      &nbsp;&nbsp;&nbsp;<code>2016-03-30-i-love-design.markdown</code><br />
-      - Write the <a href="jekyll">Front Matter</a> and content in the file.<br /><br />
-      <div class="example">
+<div class="science science-title">
+Scientist
+</div>
+<p>I hold a Bachelor of Science in Neurobiology, Physiology, and Behavior with a minor in Insect Biology from 
+The University of California at Davis (2014), during which time I assisted in a project studying the 
+<a href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0154504">Quantitative Analysis of Reflected Light from Zebra Coats</a>.
+I performed data analysis for this project using <a href="https://www.mathworks.com/products/matlab.html">Matlab</a>. 
+</p>
 
-        <div class="highlight">
-        <pre>
-          ---
-          layout: post | default | page
-          title:  String<span class="hint"> Post Title</span>
-          date:   Time Stamp
-          categories: String | Array of Strings<span class="hint"> Category / Categories </span>
-          ---
-        </pre>
-        </div>
+<div class="techno techno-title">
+Technologist
+</div>
+<p>I'm also a knowledgable computer user and experienced Linux system administrator. I build web servers for fun, sometimes, and have been known to self-host
+material using a Linux (<a href="https://www.debian.org/">Debian"</a>, usually), Apache, MySQL, and PHP (LAMP) stack, either on my own hardware or on a virtual host. 
+I occasionally program using <a href="http://www.python.org">Python</a>, and enjoy using single-board computers such as the 
+<a href="https://www.raspberrypi.org/">Raspberry Pi</a> and the <a href="https://getchip.com/">CHIP</a>. 
+I'm also active in the <a href="http://www.lugod.org">local Linux community</a>.
+</p>
 
-      </div>
-      <div class="example">
-        <div class="highlight">
-        <pre>
-        ---
-        layout: post
-        title:  "The One with the Blackout"
-        date:   2016-03-30 19:45:31 +0530
-        categories: ["life", "friends"]
-        ---
-      </pre>
-    </div>
-      </div>
-
-
-
+<p>This website is hosted via <a href="https://pages.github.com/">Github Pages</a> and <a href="https://jekyllrb.com">Jekyll</a>, a static site
+generator. The layout is based on a version of a theme called <a href="https://github.com/hemangsk/safarnama">Safarnama</a> that I've modified 
+to be more to my liking. Thanks, MIT licensing!
+</p>
+<p>Contact me at tdt (at) wordpest dot com for more information about the writing or technical services
+that I can provide for you and your publication, project, or company. </p>
 
 </div>
-<p><br /></p>
-
-  <div class="manual manual-title">
-  Create Pages
-  </div>
-<p>  <div class="manual-content">
-
-      - Create a .md file in the root directory.<br />
-      - Name the file with the desired page link name.<br />
-        &nbsp;&nbsp;&nbsp;<code>about.md</code><br />
-          &nbsp;&nbsp;&nbsp;<code>design.md</code><br />
-      - Write the <a href="jekyll">Front Matter</a> and content in the file.<br /><br />
-      <div class="highlight">
-
-
-        <pre>
-          ---
-          layout: page
-          title: String <span class="hint">Title of the webpage</span>
-          permalink: / String / <span class="hint">Permalink for the webpage</span>
-          tagline: String <span class="hint">Optional DevJournal Feature : Tagline for the page</span>
-          ---
-      </pre>
-    </div>
-      <div class="highlight">
-
-        <pre>
-        ---
-        layout: page
-        title:  "Science"
-        permalink:   /science/
-        tagline : "Humanity is overrated."
-        ---
-      </pre>
-      </div>
-
-
-  </div>
