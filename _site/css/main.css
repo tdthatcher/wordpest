@@ -109,7 +109,8 @@ a.cont:active {
 
 a {
   color: inherit !important;
-  text-decoration: underline; }
+  #  text-decoration: underline;
+  border-bottom: 1px lightblue dotted; }
 
 a:hover {
   color: inherit;
