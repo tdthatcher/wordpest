@@ -26,6 +26,8 @@ color: black
 * {
     margin: 0;
 }
+.post-content-main a:link { color:black }
+
 html, body {
     height: 100%;
 }
@@ -114,6 +116,8 @@ padding: 2em;
 padding-bottom: 0.5em;
 text-align: center;
 }
+.stories a:link { color:black }
+
 .post-box{
   font-family: "Alegreya Sans";
 
