@@ -43,6 +43,10 @@ html, body {
 #background-color: #02062a;
 background-color: #641E16;
 }
+a.cont:link    { text-decoration: underline;}
+a.cont:visited { text-decoration: underline;}
+a.cont:hover    { text-decoration: none;}
+a.cont:active    { text-decoration: none;}
 
 .social{
   font-size: 19px;
@@ -99,10 +103,6 @@ font-size: 20px;
 font-weight: 100;
 text-align: justify;
 }
-a.post-content-main:link    { text-decoration: underline;}
-a.post-content-main:visited { text-decoration: underline;}
-a.post-content-main:hover    { text-decoration: none;}
-a.post-content-main:active    { text-decoration: none;}
 
 
 
