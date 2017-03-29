@@ -17,9 +17,6 @@ a:hover, a:active {
 * {
   margin: 0; }
 
-.post-content-main a:link {
-  color: black; }
-
 html, body {
   height: 100%; }
 
@@ -82,9 +79,6 @@ html, body {
   font-weight: 100;
   text-align: justify; }
 
-.post-content-main a:link {
-  color: black; }
-
 .stories {
   font-family: "Lato";
   font-size: 20px;
@@ -92,9 +86,6 @@ html, body {
   padding: 2em;
   padding-bottom: 0.5em;
   text-align: center; }
-
-.stories a:link {
-  color: black; }
 
 .post-box {
   font-family: "Alegreya Sans";
