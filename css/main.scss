@@ -8,6 +8,13 @@ body{
   background-color: #A93226 !important;
   color: white !important;
 }
+a:link {
+color: white;
+}
+a:hover {
+text-decoration: underline;
+}
+
 .post-content-main{
   padding-left: 1em;
   padding-right: 1em;

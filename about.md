@@ -5,26 +5,19 @@ permalink: /about/
 ---
 
 <div class="post-content">
-    <h2 class="sname-main">WORDPEST.COM</h2>
+<center>    <h2 class="sname-main">WORDPEST.COM</h2></center>
 <p>Wordpest is a demonstration site that I've put together to showcase a few of my skills.</p>
 
 <div class="writer writer-title">
 <h3>Content Writer</h3>
 </div>
-<p>As a content writer, my goal is to provide interesting and informative content that's designed to
-catch eyes and draw readers to a website or print publication. My topical areas of interest include law,
-medicine, science, technology, and technological culture.
-</p>
-<br>
+<p>As a content writer, my goal is to provide interesting, informative content that's designed to
+catch eyes and draw readers to a website or print publication. Much of what I do is ghostwriting, and
+I enjoy my work. </p>
 
-<div class="science science-title">
-<h3>Scientist</h3>
-</div>
-<p>I hold a Bachelor of Science in Neurobiology, Physiology, and Behavior with a minor in Insect Biology from 
-The University of California at Davis (2014), during which time I assisted in a project studying the 
-<a href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0154504">Quantitative Analysis of Reflected Light from Zebra Coats</a>.
-I performed data analysis for this project using <a href="https://www.mathworks.com/products/matlab.html">Matlab</a>. 
-</p>
+<p>My topic areas of interest include law, medicine, science, technology, and tech-culture.</p>
+
+
 
 <div class="techno techno-title">
 <h3>Technologist</h3>
@@ -40,7 +33,18 @@ I'm also active in the <a href="http://www.lugod.org">local Linux community</a>.
 generator. The layout is based on a version of a theme called <a href="https://github.com/hemangsk/safarnama">Safarnama</a> that I've modified 
 to be more to my liking. Thanks, MIT licensing!
 </p>
+
+<div class="science science-title">
+<h3>Scientist</h3>
+</div>
+<p>I hold a Bachelor of Science in Neurobiology, Physiology, and Behavior with a minor in Insect Biology from 
+The University of California at Davis (2014), during which time I assisted in a project studying the 
+<a href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0154504">Quantitative Analysis of Reflected Light from Zebra Coats</a>.
+I performed data analysis for this project using <a href="https://www.mathworks.com/products/matlab.html">Matlab</a>. 
+</p>
+</div>
+
+
 <p>Contact me at tdt (at) wordpest dot com for more information about the writing or technical services
 that I can provide for you and your publication, project, or company. </p>
 
-</div>
