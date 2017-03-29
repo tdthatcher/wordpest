@@ -75,6 +75,18 @@ html, body {
   font-weight: 100;
   text-align: justify; }
 
+a.post-content-main:link {
+  text-decoration: underline; }
+
+a.post-content-main:visited {
+  text-decoration: underline; }
+
+a.post-content-main:hover {
+  text-decoration: none; }
+
+a.post-content-main:active {
+  text-decoration: none; }
+
 .stories {
   font-family: "Lato";
   font-size: 20px;
