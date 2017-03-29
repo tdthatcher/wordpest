@@ -7,22 +7,22 @@ permalink: /about/
 <div class="post-content">
 <center>    <h2 class="sname-main">WORDPEST.COM</h2></center>
 <p>Wordpest is a demonstration site that I've put together to showcase a few of my skills.</p>
+</div>
 
 <div class="writer writer-title">
 <h3>Content Writer</h3>
 </div>
 <p>As a content writer, my goal is to provide interesting, informative content that's designed to
 catch eyes and draw readers to a website or print publication. Much of what I do is ghostwriting, and
-I enjoy my work. </p>
+I enjoy my work!</p>
 
-<p>My topic areas of interest include law, medicine, science, technology, and tech-culture.</p>
-
-
+<p>My topic areas of interest include law, medicine, science, technology, and tech culture.</p>
+</div>
 
 <div class="techno techno-title">
 <h3>Technologist</h3>
-<p>I'm also a knowledgable computer user and experienced Linux system administrator. I build web servers for fun, sometimes, and have been known to self-host
-material using a Linux (<a href="https://www.debian.org/">Debian"</a>, usually), Apache, MySQL, and PHP (LAMP) stack, either on my own hardware or on a virtual host. 
+<p>I'm a knowledgable computer user and experienced Linux system administrator. I build web servers for fun, sometimes, and have been known to self-host
+material using a Linux (<a href="https://www.debian.org/">Debian</a>, usually), Apache, MySQL, and PHP (LAMP) stack, either on my own hardware or on a virtual host. 
 I occasionally program using <a href="http://www.python.org">Python</a>, and enjoy using single-board computers such as the 
 <a href="https://www.raspberrypi.org/">Raspberry Pi</a> and the <a href="https://getchip.com/">CHIP</a>. 
 I'm also active in the <a href="http://www.lugod.org">local Linux community</a>.
